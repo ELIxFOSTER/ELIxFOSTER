@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+%F0%9F%91%8B%F0%9F%8F%BE+Welcome+to+my+profile!)](https://git.io/typing-svg)
+
 # 💫 About Me:
 🔭 I’m currently working on a Pinterest Clone<br>🌱 I’m currently learning Docker<br>💬 Ask me about FPS Games<br>⚡ Fun fact I am Black and Asian 😄
 
