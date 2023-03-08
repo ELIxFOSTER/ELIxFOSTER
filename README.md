@@ -15,7 +15,4 @@
 [![](https://visitcount.itsvg.in/api?id=ELIxFOSTER&icon=1&color=4)](https://visitcount.itsvg.in)
 
 
-# 💫 About Me:
-🔭 I’m currently working on a Pinterest Clone<br>🌱 I’m currently learning Docker<br>💬 Ask me about FPS Games<br>⚡ Fun fact I am Black and Asian 😄
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
